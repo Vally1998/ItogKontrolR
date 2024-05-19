@@ -20,6 +20,7 @@
 
 [Решение в коде](ItogKontrolR\Program.cs)
 
-[Решение в в иде блок-схемы](ItogKontrolR\Диаграмма.drawio.png)
+[Решение в в иде блок-схемы](https://github.com/Vally1998/ItogKontrolR/blob/main/Диаграмма.drawio)
+
 
 
