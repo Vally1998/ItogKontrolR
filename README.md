@@ -18,9 +18,9 @@
 3. Теперь напишем функцию вывода на консоль нового сформированного массива с помощью функции PrinArray также через перебор элементов 
 с помощью цикла for
 
-[Решение в коде](ItogKontrolR\Program.cs)
+[Решение в коде](https://github.com/Vally1998/ItogKontrolR/blob/main/Program.cs)
 
-[Решение в в иде блок-схемы](https://github.com/Vally1998/ItogKontrolR/blob/main/Диаграмма.drawio)
+[Решение в в иде блок-схемы](https://github.com/Vally1998/ItogKontrolR/blob/main/Диаграмма.drawio.png)
 
 
 
