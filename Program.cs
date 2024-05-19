@@ -12,3 +12,13 @@ void myArray(string[] Array, string[] newArray)
         }
     }
 } 
+void PrintArray(string[] Array)
+{
+    for (int i = 0; i < Array.Length; i++)
+    {
+        Console.Write($"{Array[i]} ");
+    }
+    Console.WriteLine();
+}
+myArray(Array, newArray);
+PrintArray(newArray);  
